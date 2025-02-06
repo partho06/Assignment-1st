@@ -59,16 +59,30 @@ body{
     border: #FFFFFF;
 }
 
-.btnc{
-    background-color:  #09A15C;
+.btn-primary1{
+    padding: 11px 20px;
+    color: #FFFFFF;
+    background-color: #09A15C;
+    font-weight: 600;
+    border-radius: 8px;
+    border: #FFFFFF;
 }
-.bntc{
+
+.btn-primary2{
+    padding: 11px 20px;
+    color: #FFFFFF;
     background-color: #FFC239;
+    font-weight: 600;
+    border-radius: 8px;
+    border: #FFFFFF;
 }
 
 
+   
 
-.card-cointainer{
+
+
+.card-container{
 
     display: flex;
     gap: 24px;
