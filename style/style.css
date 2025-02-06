@@ -16,7 +16,7 @@ body{
 }
 
 .content{
-    padding: 24px;
+    padding: 24px 24px;
 }
 
 .header{
@@ -59,6 +59,14 @@ body{
     border: #FFFFFF;
 }
 
+.btnc{
+    background-color:  #09A15C;
+}
+.bntc{
+    background-color: #FFC239;
+}
+
+
 
 .card-cointainer{
 
@@ -71,12 +79,24 @@ body{
     font-weight: bold;
     font-size: 20px;
 }
-.card{
+.card-one{
     background-color: #5490F533;
+    border-radius: 16px;
+    padding: 32px 32px;
+   }
+
+   .card-two{
+    background-color: #C6E4D6;
+    border-radius: 16px;
+    padding: 32px 32px;
+   }
+   .card-three{
+    background-color: #F7EBCF;
     border-radius: 16px;
     padding: 32px 32px;
    
 }
+
 
 .title{
     font-weight: bold;
