@@ -140,4 +140,28 @@ body{
 .satelite{
     display: flex;
     gap: 32px;
+    background-color: #FFFFFF;
+   padding: 48px;
+   border-radius: 40;
+   
+}
+.date{
+    display: flex;
+    gap: 12px;
+}
+
+.banner-title{
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    margin: 48px;
+}
+
+.new{
+  
+}
+
+.border{
+    border-radius: 24px;
 }
