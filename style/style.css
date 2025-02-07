@@ -13,14 +13,18 @@ body{
     margin-right: 160px;
     margin-top: 80px;
     margin-bottom: 80px;
-
+    justify-content: space-between;
 
     
     
 }
 
 .content{
-    padding: 24px 24px;
+    /* padding: 24px 24px; */
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 80px;
+    padding-bottom: 80px;
 }
 
 .header{
@@ -46,7 +50,12 @@ body{
     padding:  17px 34px ;
     border: #FFFFFF;
 }
-
+.bangla{
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
 
 
 
@@ -124,4 +133,11 @@ body{
   margin-top: 80px;
   margin-bottom: 80px;
  
+}
+
+
+/* 3rd */
+.satelite{
+    display: flex;
+    gap: 32px;
 }
