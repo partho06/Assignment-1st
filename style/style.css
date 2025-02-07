@@ -138,6 +138,7 @@ body{
   margin-right: 160px;
   margin-top: 80px;
   margin-bottom: 80px;
+
  
 }
 
@@ -149,6 +150,7 @@ body{
     background-color: #FFFFFF;
    padding: 48px;
    border-radius: 40;
+   border-radius: 24px;
    
 }
 .date{
@@ -162,6 +164,8 @@ body{
     padding-top: 80px;
     padding-bottom: 80px;
     margin: 48px;
+    background-color: #F1F1F3;
+    
 }
 
 .new{
@@ -170,4 +174,47 @@ body{
 
 .border{
     border-radius: 24px;
+}
+
+/* 4th */
+
+.donate{
+    text-align: center;
+}
+
+.donate-header{
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.btn-134{
+    background-color:  #FFFFFF;
+    border-radius: 16px;
+    padding: 40px;
+    font-weight: bold;
+    font-size: 40px;
+    border:  #FFFFFF;
+}
+.btn-2{
+    padding: 40px ;
+    background-color: #C6E4D6;
+    border-radius: 16px;
+    font-weight: bold;
+    font-size: 40px;
+    border:  #FFFFFF;
+}
+
+.input{
+    padding: 20px 40px 20px 40px;
+   
+}
+
+.btn-4{
+ 
+   justify-content: space-evenly;
+}
+
+.donate{
+    background-color: #F1F1F3;
+    padding: 40px ;
 }
