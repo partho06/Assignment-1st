@@ -19,17 +19,17 @@ body{
     background-color: #C6E4D6;
     border-radius: 24px;
     gap: 64px;  
-}
 
 
-
-.content{
-   
     padding-left: 100px;
     padding-right: 100px;
     padding-top: 80px;
     padding-bottom: 80px;
 }
+
+
+
+
 
 .header{
     font-size: 24px;
@@ -43,8 +43,7 @@ body{
 .paragraph{
     font-size: 56px;
     font-weight: 700;
-    
-    margin-bottom: 24px;
+   
    
 }
 
